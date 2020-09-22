@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtaCasinoHacker", "GtaCasinoHacker\GtaCasinoHacker.csproj", "{5EB2D114-3E52-40C5-9A83-AE43E13C2CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtaCasinoHackerPackGenerator", "GtaCasinoHackerPackGenerator\GtaCasinoHackerPackGenerator.csproj", "{4EC370A6-6815-41F9-8B6C-967EE594486A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB2D114-3E52-40C5-9A83-AE43E13C2CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB2D114-3E52-40C5-9A83-AE43E13C2CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB2D114-3E52-40C5-9A83-AE43E13C2CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB2D114-3E52-40C5-9A83-AE43E13C2CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC370A6-6815-41F9-8B6C-967EE594486A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC370A6-6815-41F9-8B6C-967EE594486A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC370A6-6815-41F9-8B6C-967EE594486A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC370A6-6815-41F9-8B6C-967EE594486A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E79022-4062-4E9B-BEE4-181459337984}
+	EndGlobalSection
+EndGlobal
